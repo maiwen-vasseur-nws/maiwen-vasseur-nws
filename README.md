@@ -1,6 +1,6 @@
-- 👋 je m'appelle Maîwen
+- 👋 je m'appelle Maïwen
 - 👀 je suis intéréssée par le numérique 
-- 🌱 j'apprends actuellement les outils collaboratif
+- 🌱 j'apprends actuellement à la normandie web school
 - 💞️ I’m looking to collaborate on ...
 - 📫 on peut me joindre par mail ou téléphone
 - 😄 Pronouns: ...
